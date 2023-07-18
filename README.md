@@ -6,7 +6,7 @@ Form Validation
 
 ## Description 
 
-This is a form validation site developed by TG Codes. It validates the user's input for full name, phone number, email address, and message. The form provides real-time validation with error messages for incorrect inputs. The UI is designed with a clean and user-friendly interface. It includes features like checking full name format, phone number length, email format, and message length. Upon successful validation, the form is submitted, and an alert message is displayed. The site is implemented with HTML, CSS, and JavaScript.
+This is a form validation site developed by jagathshwaran. It validates the user's input for full name, phone number, email address, and message. The form provides real-time validation with error messages for incorrect inputs. The UI is designed with a clean and user-friendly interface. It includes features like checking full name format, phone number length, email format, and message length. Upon successful validation, the form is submitted, and an alert message is displayed. The site is implemented with HTML, CSS, and JavaScript.
 
 ## Authors
 
