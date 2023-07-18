@@ -1,11 +1,11 @@
 
 ## Title
 
-Calculator
+Form Validation
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+This is a form validation site developed by TG Codes. It validates the user's input for full name, phone number, email address, and message. The form provides real-time validation with error messages for incorrect inputs. The UI is designed with a clean and user-friendly interface. It includes features like checking full name format, phone number length, email format, and message length. Upon successful validation, the form is submitted, and an alert message is displayed. The site is implemented with HTML, CSS, and JavaScript.
 
 ## Authors
 
@@ -14,42 +14,64 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+To use the Mini Calendar web page, follow these steps:
 
-   1. Clone the repository to your local machine.
+   1. Download the source code:
 
-   2. Open the project in your preferred code editor.
+    --Clone or download the repository to your local machine.
 
-   3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+   2. Open the project:
 
-   4. Test the calculator locally to ensure it functions correctly.
+    --Use your preferred code editor to open the downloaded project files.
 
-   5. Deploy the updated application to your chosen hosting platform for others to use.
+   3. Customize the code:
 
-Unleash your creativity and personalize the calculator according to your style!
+    --Modify the HTML, CSS, and JavaScript files to match your desired design and requirements.
+
+    --Customize the font style, colors, and layout to align with your website's style or personal preferences.
+
+    --Update the background color, font family, or any other CSS properties as needed.
+
+   4. Test the functionality:
+
+    --Open the HTML file in a web browser to see the mini calendar in action.
+
+    --Verify that the current date, day, month, and year are displayed correctly.
+
+    --Ensure that the design and layout meet your expectations.
+
+   5. Deploy the web page:
+
+    --Upload the modified code to your web hosting or server.
+
+   6. Explore customization options:
+
+    --Experiment with different fonts, colors, and styles to create a personalized look and feel.
+
+    --Adjust the dimensions and positioning of the calendar elements to fit your design requirements.
+
+   7. Enjoy the mini calendar:
+
+    --View your website or web page with the functional and visually appealing mini calendar.
+
+    --Benefit from the simplicity and convenience of having the current date information readily available.
+
+Note: The JavaScript code can be updated to provide more specific alerts or additional functionality based on your requirements. Feel free to modify the background, UI, and overall design to suit your preferences. Customize and tailor the code further to meet your specific needs or integrate it into your existing projects.
 
 
 
 ## Features
 
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+   1. Real-time form validation.
 
-   2. Decimal point support and clearing display.
+   2. Error messages for incorrect inputs.
 
-   3. Delete last character and evaluate expressions.
+   3. Clean and user-friendly interface.
 
-   4. User-friendly design with responsive layout.
+   4. Validation for full name, phone number, email address, and message.
 
-   5. Styling with custom CSS for an appealing visual experience.
-
-   6. Use of popular web fonts for improved typography.
-
-   7. Integration of Font Awesome icons for enhanced aesthetics.
-
-
-
-
+   5. Form submission success alert.
 
 ## Contributing
 
